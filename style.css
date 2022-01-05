@@ -1,0 +1,39 @@
+body {
+  background-size: cover;
+}
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  padding: 10px;
+  box-shadow: 12px 12px 12px rgb(0, 255, 255);
+}
+.note {
+  font-size: 15px;
+  color: ghostwhite;
+  padding: 10px;
+  margin: 0px;
+  box-shadow: 5px 5px 10px rgb(3, 253, 128);
+}
+.div_speed {
+  float: left;
+}
+.div_volume {
+  float: right;
+}
+.div_speed_img,
+.div_volume_img {
+  width: 200px;
+  border-radius: 100px;
+}
+#speed,
+#volume {
+  font-size: 23px;
+  margin: 15px;
+}
+canvas {
+  border: rgb(80, 255, 197);
+  box-shadow: 12px 12px 12px aqua;
+  padding: 10px;
+  margin: 0px;
+}
